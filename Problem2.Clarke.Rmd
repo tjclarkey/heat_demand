@@ -12,10 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 library(readr)
 heat_data <- read_csv("~/Documents/R/132/PSET 4/heating_data.csv")
 source("~/Documents/R/132/PSET 4/q2funs.R")
-
-ggplot2::ggplot(select(heat_data, consumer_id, ic_gc)) +
-  geom_point(aes(x = consumer_id, y = ic_gc)) +
-  geom_hline(yintercept = 776.8, color = "#30c758", size = 2)
 ```
 
 2a
