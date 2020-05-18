@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 library(readr)
 heat_data <- read_csv("~/Documents/R/132/PSET 4/heating_data.csv")
-source("~/Documents/R/132/PSET 4/q2funs.R")
+source("~/Documents/Git/heat_demand/q2funs.R")
 ```
 
 2a
