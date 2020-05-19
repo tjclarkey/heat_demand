@@ -5,14 +5,11 @@ date: "4/27/2020"
 output: html_document
 ---
 
-___BEFORE SUBMIT___
+___WORK TO BE DONE___
 _1) Finish analysis of comparing the two nests_
-_2) Test all code_
-_3) Add Outputs and Tables to "Interpretations"_
-
-__AFTER SUBMISSION__
-_1) Debug issue of ~{ P_ij ≥ 1 }~_
-_2) Dashboard_
+_2) Add Outputs and Tables to "Interpretations"_
+_3) Debug issue of ~{ P_ij ≥ 1 }~_
+_4) Dashboard_
 
 
 ```{r setup, include=FALSE}
