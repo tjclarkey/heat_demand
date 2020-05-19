@@ -6,3 +6,5 @@ In this project I estimate demand for five different types of heating system. I 
 
 ### Application
 To demonstrate the usefulness of this type of discrete choice modeling of demand, I predict the change in demand for a more efficient heating system if the government were to provide a subsidy for individuals choosing that system.
+
+f

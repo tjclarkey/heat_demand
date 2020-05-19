@@ -1,4 +1,4 @@
-# 2b
+# 2b f
 fnb <- function(beta) {
   t <- heat_data
   b1 <- beta[1]
